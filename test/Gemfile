@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+ruby '2.3.0'
+
+gem 'rspec'
+gem 'nginx_test_helper'
+gem 'em-http-request'
+gem 'byebug'
+gem 'hiredis'
+gem 'redis'
